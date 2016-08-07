@@ -10,7 +10,7 @@ android {
     buildToolsVersion '24'
 
     defaultConfig {
-        applicationId 'uk.co.ribot.androidboilerplate'
+        applicationId 'rajan.udacity.stock.hawk'
         minSdkVersion 16
         targetSdkVersion 24
         testInstrumentationRunner "${applicationId}.runner.RxAndroidJUnitRunner"
